@@ -9,7 +9,7 @@ int main(void){
     int a;
 
     printf("ひなた\n");
-    printf("ここに名前\n");
+    printf("あきと\n");
     printf("ここに名前\n");
     printf("ここに名前\n");
 
