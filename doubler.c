@@ -8,8 +8,8 @@ int doubler(int x){
 int main(void){
     int a;
 
-    printf("ひなた\n");
-    printf("あきと\n");
+    printf("すずきひなた\n");
+    printf("おーたあきと\n");
     printf("ここに名前\n");
     printf("ここに名前\n");
 
