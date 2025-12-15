@@ -11,7 +11,7 @@ int main(void){
 
     printf("すずきひなた\n");
     printf("おーたあきと\n");
-    printf("ここに名前\n");
+    printf("えぐぴっぴ\n");
     printf("uejima shogo\n");
 
 
