@@ -12,7 +12,7 @@ int main(void){
     printf("すずきひなた\n");
     printf("おーたあきと\n");
     printf("ここに名前\n");
-    printf("ここに名前\n");
+    printf("uejima shogo\n");
 
 
     if (scanf("%d", &a) != 1) return 1;
